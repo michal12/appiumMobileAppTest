@@ -1,0 +1,8 @@
+{
+        "platformName": "Android",
+        "platformVersion": "15",
+        "deviceName": "emulator-5554",
+        "appPackage": "com.google.android.contacts",
+        "appActivity": "com.android.contacts.activities.PeopleActivity",
+        "automationName": "UiAutomator2"
+}
