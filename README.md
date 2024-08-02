@@ -12,7 +12,7 @@ This project contains tests for a mobile contacts application using Appium. The 
 - **Steps**:
   1. Open the application.
   2. Navigate to the screen for adding a new contact.
-  3. Enter the contact's name, phone number, and other required details.
+  3. Enter the contact's name, phone number.
   4. Save the contact.
   5. Verify that the new contact appears in the contact list.
 
